@@ -1,0 +1,11 @@
+.panel-body{
+    color: black;
+      font-style: bold;
+  }
+    .error{
+      color: red;
+      font-style: italic;
+  }
+  .hide{
+    display: none;
+  }
